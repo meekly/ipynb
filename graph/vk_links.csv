@@ -5,6 +5,11 @@ olga,ivan
 ivan,petr
 petr,nina
 petr,olga
+ula,ivan
+rita,olga
+rita,petr
+rita,nina
+nina,rita
 pavel,nikita
 nikita,dasha
 dasha,pavel
@@ -13,3 +18,12 @@ pavel,masha
 masha,petr,
 masha,dasha
 dasha,ivan
+ula,pavel
+vika,nina
+zara,vika
+zara,dasha
+zara,petr
+zara,ivan
+vika,ivan
+zara,olga
+zara,nina
