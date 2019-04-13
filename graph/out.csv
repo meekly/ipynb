@@ -1,0 +1,13 @@
+User,Community_ID,User_type
+dasha,0,leader
+pavel,0,follower
+masha,0,follower
+nikita,0,follower
+ula,1,follower
+zara,1,follower
+vika,1,agent
+ivan,1,leader
+nina,2,agent
+olga,2,leader
+petr,2,follower
+rita,2,follower
